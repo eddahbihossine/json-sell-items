@@ -1,0 +1,138 @@
+[
+    {
+
+        "id": "B1652312635",
+        "Brands_Name":"Adidas Cafusa 2012",
+        "Price":"45,99",
+        "Category":"for dry herb",
+        "Availability":["available"],
+        "supplier":
+            {"raisonSocial" : "Adidas store",
+            "adress" : "Socco Alto, Avenue Banafsaj, Tangier 90040, Morocco"}
+          
+         },
+           
+                        
+                        
+      
+   
+    {
+
+        "id": "D7DD8612G3THJ67",
+        "Brands_Name":"NIKE Maxim 2020  ",
+        "Price":"90,95",
+        "Category":"For harsh herb",
+        "Availability":["available"],
+        "supplier":
+            {"raisonSocial" : "NIKE Store",
+            "adress" : "110 Bd d'Anfa, Casablanca 20250, Morocco"}
+          
+            
+             
+                     }
+    
+    ,
+    
+    {
+
+        "id": "E61237261376GD",
+        "Brands_Name":"UMBRO neon",
+        "Price":"19,80",
+        "Category":"for all types of herb ",
+        "Availability":["Available"],
+        "supplier":
+            {"raisonSocial" : "Umbro Store",
+            "adress" : "C.C. Jerez Norte, Av. de Europa, 11405 Jerez de la Frontera, Cádiz, Spain"}
+          
+            
+             
+                     }
+    
+    ,
+    
+    {
+
+        "id": "T3IERHCE10",
+        "Brands_Name":"Puma ultimate 390",
+        "Price":"42,99",
+        "Category":"For harsh herbs",
+        "Availability":["Available"],
+        "supplier":
+            {"raisonSocial" : "PUMA Outlet Romans",
+            "adress" : "60 Av. Gambetta, 26100 Romans-sur-Isère, France"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "1652312636",
+        "Brands_Name":"Adidas trass 12 ",
+        "Price":"45,99",
+        "Category":"for all herbs",
+        "Availability":["available"],
+        "supplier":
+            {"raisonSocial" : "Adidas store",
+            "adress" : "Socco Alto, Avenue Banafsaj, Tangier 90040, Morocco"}
+          
+         },
+         {
+
+            "id": "1652312637",
+            "Brands_Name":"Adidas jabulani 2010 ",
+            "Price":"45,99",
+            "Category":"for  dry herbs",
+            "Availability":["available"],
+            "supplier":
+                {"raisonSocial" : "Adidas store",
+                "adress" : "Socco Alto, Avenue Banafsaj, Tangier 90040, Morocco"}
+              
+             },
+             {
+
+                "id": "1652312639",
+                "Brands_Name":"Nike jabulani 2010 ",
+                "Price":"45,99",
+                "Category":"for  dry herbs",
+                "Availability":[" soonly available"],
+                "supplier":
+                    {"raisonSocial" : "Nike store",
+                    "adress" : "110 Bd d'Anfa, Casablanca 20250, Morocco"}
+                  
+                 },
+    
+    {
+
+        "id": "67781623876",
+        "Brands_Name":"UMBRO hist 450",
+        "Price":"19,80",
+        "Category":"for all types of herb ",
+        "Availability":["Available"],
+        "supplier":
+            {"raisonSocial" : "Umbro Store",
+            "adress" : "C.C. Jerez Norte, Av. de Europa, 11405 Jerez de la Frontera, Cádiz, Spain"}
+          
+            
+             
+                     }
+    
+    ,
+    {
+
+        "id": "T23672163",
+        "Brands_Name":"Puma fast78",
+        "Price":"42,99",
+        "Category":"For harsh herbs",
+        "Availability":["Available"],
+        "supplier":
+            {"raisonSocial" : "PUMA Outlet Romans",
+            "adress" : "60 Av. Gambetta, 26100 Romans-sur-Isère, France"}
+          
+            
+             
+                     }
+    
+  
+]
